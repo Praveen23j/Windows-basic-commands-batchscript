@@ -26,40 +26,67 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 
+<img width="755" height="261" alt="image" src="https://github.com/user-attachments/assets/2c7bdc05-5220-4860-9d6a-3ca9f74dd65b" />
+
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
+
+<img width="1006" height="358" alt="image" src="https://github.com/user-attachments/assets/66562e72-36da-40f8-a1d2-af2c35470ab0" />
+
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
+<img width="965" height="423" alt="image" src="https://github.com/user-attachments/assets/0a3f5e98-b0a5-4673-9228-15f2fc2eba77" />
+
+
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+<img width="1001" height="117" alt="image" src="https://github.com/user-attachments/assets/cdcb3aab-2b1e-44ee-8315-2833177c34ed" />
+
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+
+<img width="1002" height="153" alt="image" src="https://github.com/user-attachments/assets/7621cdea-cdc4-448a-a59a-6a673c1fb8d8" />
+
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+<img width="922" height="261" alt="image" src="https://github.com/user-attachments/assets/06e131ab-5906-446e-a8fc-8a2c8eb9c752" />
+
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+
+<img width="809" height="872" alt="image" src="https://github.com/user-attachments/assets/52cf6178-1524-41cb-baed-70c43ccbd552" />
+
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
+<img width="802" height="903" alt="image" src="https://github.com/user-attachments/assets/c9457bf2-55c3-4cc1-abb8-ab54f2051e6f" />
+
+
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
+
+<img width="932" height="217" alt="image" src="https://github.com/user-attachments/assets/0f66efa0-d871-4c46-b57b-5be29ea30a23" />
+
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -69,6 +96,9 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+
+<img width="855" height="106" alt="image" src="https://github.com/user-attachments/assets/61c006b0-1a6e-4c1b-86d2-7465f7fa290c" />
+
 
 
 
@@ -84,6 +114,9 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+<img width="880" height="294" alt="image" src="https://github.com/user-attachments/assets/f5e971c4-3a62-4f16-9fbf-fe19685a7219" />
+
+
 
 
 
@@ -93,6 +126,9 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+
+<img width="852" height="241" alt="image" src="https://github.com/user-attachments/assets/faaf422f-8e40-4954-bcc9-7e71587bef6a" />
+
 
 
 
@@ -107,6 +143,9 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+<img width="849" height="106" alt="image" src="https://github.com/user-attachments/assets/1c098843-0914-47fc-bb92-639fb5cdef73" />
+
+
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,6 +155,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="849" height="546" alt="image" src="https://github.com/user-attachments/assets/34db0268-5412-4f26-92af-004996768f36" />
 
 
 
